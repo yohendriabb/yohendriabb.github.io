@@ -1,7 +1,7 @@
 <template>
 	<div class="portada">
 		<div class="presentation">
-			<h1><strong>Hi!, my name is Yohendri Becerra.</strong></h1>
+			<h1><strong>Hi!, my name is <span class="tb">Yohendri Becerra.</span> </strong></h1>
 			<p class="subtitle">I'am a web developer and I'am specialiced in the creation the web pages aplications.</p>
 		</div>  
 	</div>
@@ -39,6 +39,7 @@
 				<button class="button background-top-row">Ver</button>
 			</div>
 		</div> 
+		
 	</div>
 </template>
 
